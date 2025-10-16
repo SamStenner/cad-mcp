@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "c1b9c8e6-5f2a-4c1a-9f1a-2e2f7c9d0abc",
+  "author": "Sam Stenner",
+  "description": { "": "MCP Bridge for Fusion" },
+  "version": "V1",
+  "runOnStartup": true,
+  "supportedOS": "mac|win"
+}

@@ -1,0 +1,11 @@
+// .vscode/settings.json
+{
+  "cursorpyright.analysis.extraPaths": [
+    "/Users/samstenner/Library/Application Support/Autodesk/Autodesk Fusion 360/API/Python",
+    "/Users/samstenner/Library/Application Support/Autodesk/Autodesk Fusion 360/API/Python/defs"
+  ],
+  "python.analysis.extraPaths": [
+    "/Users/samstenner/Library/Application Support/Autodesk/Autodesk Fusion 360/API/Python",
+    "/Users/samstenner/Library/Application Support/Autodesk/Autodesk Fusion 360/API/Python/defs"
+  ]
+}
